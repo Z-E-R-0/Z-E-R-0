@@ -1,14 +1,14 @@
 <h3 align="center">🚀 Passionate Game Developer from India 🌟</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rahultambatubz&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <a href="https://github.com/rahultambatubz"><img src="https://img.shields.io/github/followers/rahultambatubz?label=Followers&style=social" alt="GitHub followers" /></a>
-  <a href="https://github.com/rahultambatubz?tab=repositories"><img src="https://badges.pufler.dev/repos/rahultambatubz" alt="Repositories Badge" /></a>
+  <img src="https://komarev.com/ghpvc/?username=RahulTambatUbz&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://github.com/RahulTambatUbz"><img src="https://img.shields.io/github/followers/rahultambatubz?label=Followers&style=social" alt="GitHub followers" /></a>
+  <a href="https://github.com/RahulTambatUbz?tab=repositories"><img src="https://badges.pufler.dev/repos/rahultambatubz" alt="Repositories Badge" /></a>
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rahultambatubz&theme=darkhub&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=RahulTambatUbz&theme=juicyfresh&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
   </a>
 </p>
 
@@ -88,14 +88,13 @@
 
 ---
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahultambatubz&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=RahulTambatUbz&show_icons=true&theme=tokyonight" alt="Rahul's GitHub Stats" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahultambatubz&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahultambatubz&theme=dark" alt="GitHub Streak" />
+ <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=RahulTambatUbz&theme=radical&type=png" alt="GitHub Streak" /></a>
 </p>
