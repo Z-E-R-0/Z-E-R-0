@@ -12,7 +12,7 @@
   </a>
 </p>
 
----
+
 
 <p align="center">
    <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -24,7 +24,7 @@
 
 
 
----
+
 
 <h3 align="center">🛠️ Languages and Tools:</h3>
 <p align="left">
@@ -88,7 +88,7 @@
   
 </p>
 
----
+
 <h3 align="left">💬 Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/rahul-tambat" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin-circled.png" alt="LinkedIn" height="30" width="30" /></a>
