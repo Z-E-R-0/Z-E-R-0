@@ -8,25 +8,25 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=RahulTambatUbz&theme=juicyfresh&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=RahulTambatUbz&theme=juicyfresh&no-frame=true&column=8&margin-w=15&margin-h=15" alt="GitHub Trophies" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=RahulTambatUbz&show_icons=true&theme=tokyonight" alt="Rahul's GitHub Stats" />
   </a>
+   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=RahulTambatUbz&theme=tokyonight&type=png" alt="GitHub Streak" /></a>
+ 
 </p>
 
-<p align="center">
- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=RahulTambatUbz&theme=tokyonight&type=png" alt="GitHub Streak" /></a>
-</p>
+
 
 ---
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
+<h3 align="center">🛠️ Languages and Tools:</h3>
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="40" height="40"/>
