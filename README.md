@@ -96,5 +96,5 @@
 </p>
 
 <p align="center">
- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=RahulTambatUbz&theme=radical&type=png" alt="GitHub Streak" /></a>
+ <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=RahulTambatUbz&theme=tokyonight&type=png" alt="GitHub Streak" /></a>
 </p>
