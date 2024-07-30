@@ -16,9 +16,9 @@
 
 <p align="center">
    <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=RahulTambatUbz&show_icons=true&theme=tokyonight" alt="Rahul's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=RahulTambatUbz&show_icons=true&theme=tokyonight&card_width=250&card_height=100" alt="Rahul's GitHub Stats" />
   </a>
-   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=RahulTambatUbz&theme=tokyonight&type=png" alt="GitHub Streak" /></a>
+ <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=RahulTambatUbz&theme=tokyonight&card_width=300&type=png" alt="GitHub Streak" /></a>
  
 </p>
 
