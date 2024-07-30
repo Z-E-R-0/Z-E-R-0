@@ -63,10 +63,10 @@
     <img src="https://img.icons8.com/officel/48/000000/php-logo.png" alt="PHP" width="40" height="40"/>
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/>
+    <img src= "https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000" alt="Python" width="40" height="40"/>
   </a>
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/pytorch.png" alt="PyTorch" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=100&id=O6SWwpPIM0GB&format=png&color=000000" alt="PyTorch" width="40" height="40"/>
   </a>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" width="40" height="40"/>
@@ -77,6 +77,13 @@
   <a href="https://unrealengine.com/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/000000/unreal-engine.png" alt="Unreal Engine" width="40" height="40"/>
   </a>
+   <a href="https://www.autodesk.com/in" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/?size=100&id=106438&format=png&color=000000" alt="Autodesk Maya" width="40" height="40"/>
+  </a>
+ <a href="https://www.adobe.com/products/substance3d/apps/painter.html" target="_blank" rel="noreferrer">
+    <img src="https://gamesnavneet.s3.eu-north-1.amazonaws.com/Git+Data/adobe-substance-3d-painter-icon.png" alt="Substance Painter" width="40" height="40"/>
+  </a>
+  
 </p>
 
 ---
