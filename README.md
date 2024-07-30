@@ -14,12 +14,14 @@
 
 ---
 
-<h3 align="left">💬 Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/rahul-tambat" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin-circled.png" alt="LinkedIn" height="30" width="30" /></a>
-  <a href="https://fb.com/rahul.tambat" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/facebook-circled.png" alt="Facebook" height="30" width="30" /></a>
-  <a href="https://instagram.com/rahultambat" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" height="30" width="30" /></a>
-  <a href="https://www.youtube.com/c/rahultambat470" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" height="30" width="30" /></a>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=RahulTambatUbz&show_icons=true&theme=tokyonight" alt="Rahul's GitHub Stats" />
+  </a>
+</p>
+
+<p align="center">
+ <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=RahulTambatUbz&theme=tokyonight&type=png" alt="GitHub Streak" /></a>
 </p>
 
 ---
@@ -87,14 +89,12 @@
 </p>
 
 ---
-
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=RahulTambatUbz&show_icons=true&theme=tokyonight" alt="Rahul's GitHub Stats" />
-  </a>
+<h3 align="left">💬 Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/rahul-tambat" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin-circled.png" alt="LinkedIn" height="30" width="30" /></a>
+  <a href="https://fb.com/rahul.tambat" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/facebook-circled.png" alt="Facebook" height="30" width="30" /></a>
+  <a href="https://instagram.com/rahultambat" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" height="30" width="30" /></a>
+  <a href="https://www.youtube.com/c/rahultambat470" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" height="30" width="30" /></a>
 </p>
 
-<p align="center">
- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=RahulTambatUbz&theme=tokyonight&type=png" alt="GitHub Streak" /></a>
-</p>
+
