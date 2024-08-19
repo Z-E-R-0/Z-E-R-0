@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Z-E-R-0&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <a href="https://github.com/Z-E-R-0"><img src="https://img.shields.io/github/followers/rahultambatubz?label=Followers&style=social" alt="GitHub followers" /></a>
+  <a href="https://github.com/Z-E-R-0"><img src="https://img.shields.io/github/followers/Z-E-R-0?label=Followers&style=social" alt="GitHub followers" /></a>
   <a href="https://github.com/Z-E-R-0?tab=repositories"><img src="https://badges.pufler.dev/repos/Z-E-R-0" alt="Repositories Badge" /></a>
 </p>
 
