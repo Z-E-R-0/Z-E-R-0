@@ -1,14 +1,14 @@
 <h3 align="center">🚀 Passionate Game Developer from India 🌟</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RahulTambatUbz&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <a href="https://github.com/RahulTambatUbz"><img src="https://img.shields.io/github/followers/rahultambatubz?label=Followers&style=social" alt="GitHub followers" /></a>
-  <a href="https://github.com/RahulTambatUbz?tab=repositories"><img src="https://badges.pufler.dev/repos/rahultambatubz" alt="Repositories Badge" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Z-E-R-0&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://github.com/Z-E-R-0"><img src="https://img.shields.io/github/followers/rahultambatubz?label=Followers&style=social" alt="GitHub followers" /></a>
+  <a href="https://github.com/Z-E-R-0?tab=repositories"><img src="https://badges.pufler.dev/repos/Z-E-R-0" alt="Repositories Badge" /></a>
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=RahulTambatUbz&theme=tokyonight&no-frame=false&column=8&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Z-E-R-0&theme=tokyonight&no-frame=false&column=8&margin-w=15&margin-h=15" alt="GitHub Trophies" />
   </a>
 </p>
 
@@ -16,9 +16,9 @@
 
 <p align="center">
    <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=RahulTambatUbz&show_icons=true&theme=tokyonight&card_width=250&card_height=100" alt="Rahul's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Z-E-R-0&show_icons=true&theme=tokyonight&card_width=250&card_height=100" alt="Rahul's GitHub Stats" />
   </a>
- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=RahulTambatUbz&theme=tokyonight&card_width=300&type=png" alt="GitHub Streak" /></a>
+ <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Z-E-R-0&theme=tokyonight&card_width=300&type=png" alt="GitHub Streak" /></a>
  
 </p>
 
